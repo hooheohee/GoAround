@@ -2,6 +2,6 @@
 
 A social network web app
 
-backend source code (Golang, GCP, Elasticsearch)
+backend (Golang, Elasticsearch, GCE dev, GAE prod)
 
-frontend source code (React)
+frontend (React)
